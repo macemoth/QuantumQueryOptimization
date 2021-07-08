@@ -1,8 +1,8 @@
-# BA-Companion
+# Multiple Query Optimization using a Hybrid Approach of Classical and Quantum Computing
 
-Tobias Fankhauser, Marc E. Solèr
+Tobias Fankhauser, Marc E. Solèr, Rudolf M. Füchslin, Kurt Stockinger
 
-This repository contains additional material for the BA *"Multiple Query Optimization using a Hybrid Approach of Classical and Quantum Computing"*, supervised by Prof. Dr. Kurt Stockinger and Prof. Dr. Rudolf Füchslin.
+This repository contains additional material for the BA *"Multiple Query Optimization using a Hybrid Approach of Classical and Quantum Computing"*, supervised by Prof. Dr. Kurt Stockinger and Prof. Dr. Rudolf M. Füchslin.
 
 ## Prerequisites
 
