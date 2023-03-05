@@ -23,7 +23,7 @@ IBMQ.save_account('MY_API_TOKEN')
 - `QAOA_Qiskit_main.py` is the plain-vanilla implementation of QAOA with Qiskit using default optimizers
 - `QAOA_FOURIER.py` uses the improved *FOURIER* optimizer by [Zhou et al.](https://arxiv.org/abs/1812.01041) which is considerably better
 - `QAOA_PL_main.py` uses [PennyLane](https://pennylane.ai) , a Quantum Machine Learning framework
-- `GAS_main.py` is an implementation of [https://arxiv.org/abs/1912.04088](Grover Adaptive Search), an algorithm similar to QAOA
+- `GAS_main.py` is an implementation of [Grover Adaptive Search](https://arxiv.org/abs/1912.04088), an algorithm similar to QAOA
 
 ## Notes
 
